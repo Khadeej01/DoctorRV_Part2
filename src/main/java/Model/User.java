@@ -63,4 +63,7 @@ public class User {
                 ", role='" + role + '\'' +
                 '}';
     }
+
+    public void setUsername(String username) {
+    }
 }
